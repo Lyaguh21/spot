@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Lyaguh21/spot-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Lyaguh21/spot-backend
