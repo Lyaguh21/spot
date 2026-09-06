@@ -3,8 +3,8 @@
 SPOT — это социальное веб-приложение, в котором можно сохранять любимые места на интерактивной карте и делиться ими с другими. Сохраняйте любимые места, объединяйтесь в пары для ведения общей карты и вдохновляйтесь местами, которые посещают ваши друзья. Все важные воспоминания и планы — в одном месте.
 
 #### [Ссылка на сайт](https://spot-map.ru)
-#### [Ссылка на RuStore](https://www.rustore.ru/catalog/app/site.lyaguh)
 
+#### [Ссылка на RuStore](https://www.rustore.ru/catalog/app/site.lyaguh)
 
 ## Основные возможности
 
@@ -62,3 +62,13 @@ SPOT — это социальное веб-приложение, в котор�
 - GitHub Actions
 - CI/CD
 
+# Скриншоты
+
+<p align="center"> 
+  <img src="screens/1.png" width="400px" />
+  <img src="screens/2.png" width="400px" />
+  <img src="screens/3.png" width="400px" />
+  <img src="screens/4.png" width="400px" />
+  <img src="screens/5.png" width="400px" />
+  <img src="screens/6.png" width="400px" />
+</p>
